@@ -1,0 +1,13 @@
+name: qbio481
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - ipykernel

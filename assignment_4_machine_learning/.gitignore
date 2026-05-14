@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Ignore generated results
+assignment_4_machine_learning/results/*
+
+# Keep folder structure
+!assignment_4_machine_learning/results/figures/
+!assignment_4_machine_learning/results/tables/
+!assignment_4_machine_learning/results/fasta/
+!assignment_4_machine_learning/results/**/.gitkeep
